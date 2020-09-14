@@ -17,6 +17,6 @@ public class MainController {
 
     @GetMapping(value = "/index")
     public String send() {
-        return "222222222222！";
+        return "33333！";
     }
 }
